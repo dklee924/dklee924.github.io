@@ -51,12 +51,13 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "idongkr@gmail.com"
-#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: idongkr
   google-scholar: cLfMY9wAAAAJ&hl=ko
   ORCID: 0000-0001-7155-9117
   linkedin: dongkyu-lee-snu/
   github: dklee924
+  instagram: dongkyuleeeee
+  telephone: +821087684541
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: "@daattali"
@@ -66,9 +67,8 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  spotify: yourname
-#  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
