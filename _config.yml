@@ -51,11 +51,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "idongkr@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: https://www.facebook.com/idongkr
-  google-scholar: https://scholar.google.co.kr/citations?user=cLfMY9wAAAAJ&hl=ko
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  facebook: idongkr
+  google-scholar: cLfMY9wAAAAJ&hl=ko
   ORCID: 0000-0001-7155-9117
-  linkedin: https://www.linkedin.com/in/dongkyu-lee-snu/
+  linkedin: dongkyu-lee-snu/
   github: dklee924
 #  twitter: daattali
 #  patreon: DeanAttali
