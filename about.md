@@ -1,11 +1,12 @@
 ---
 title: Dongkyu Lee
 subtitle: Postdoctoral researcher
+
 subtitle2: Department of Civil & Environmental Engineering, Seoul National University
 ---
 
-My name is Dongkyu Lee. I am a Postdoc at Seoul National University. My main research interest lies in: 
-
+My name is Dongkyu Lee. I am a Postdoc at Seoul National University.
+My main research interest lies in: 
 - Seismic reliability analysis of urban systems/networks under seismic uncertainties
 - Risk-informed maintenance strategies for lifeline networks
 - Application of statistical/machine learning techniques for urban infrastructure systems
