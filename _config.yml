@@ -20,11 +20,13 @@ author: Dongkyu Lee
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://dongkyulee.com"
+  About: "about"
+  CV: "cv"
+  Projects: "projects"
+  Courses: "courses"
+  Research:
+    - Journals: "https://beautifuljekyll.com"
+    - Conferences: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
