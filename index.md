@@ -21,6 +21,6 @@ He has presented [his research outcomes](https://scholar.google.co.kr/citations?
 
 ```
 Affiliation: Engineering Risk Analysis (ERA) Group, School of Engineering and Design, Technical University of Munich
-Office: Rm. 206, Bd. 35, 1 Gwanak-Ro, Gwanak-Gu, Seoul 08826, Republic of Korea
+Office: ??, Engineering Risk Analysis Group, Technische Universität München, 80290 München, Germany
 Email: idongkr[at]gmail.com
 ```
