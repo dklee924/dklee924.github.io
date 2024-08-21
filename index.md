@@ -6,7 +6,7 @@ subtitle: PostDoc, Seoul National University
 
 ## About me
 
-**Dr. Dongkyu Lee** is a **_Postdoctral researcher_** at SNU ([Seoul National University](https://en.snu.ac.kr/)). He received his B.S. and Ph.D. in Civil & Environmental Engineering from SNU. 
+**Dr. Dongkyu Lee** is a **_Postdoctral researcher_** at TUM ([Technical University of Munich](https://www.tum.de/en/)). He received his B.S. and Ph.D. in Civil & Environmental Engineering from SNU ([Seoul National University](https://en.snu.ac.kr/)). 
 
 He has a broad academical background in graph theory, deep reinforcement learning, Bayesian network, variance reduction techniques (importance sampling, subset simulation, ...), etc. He is interested in: 
 - Seismic reliability analysis of urban systems/networks under seismic uncertainties
