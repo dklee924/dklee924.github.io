@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Dongkyu Lee
-subtitle: PostDoc, Seoul National University
+subtitle: PostDoc, Technical University of Munich
 ---
 
 ## About me
