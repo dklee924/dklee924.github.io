@@ -22,5 +22,5 @@ He has presented [his research outcomes](https://scholar.google.co.kr/citations?
 ```
 Affiliation: Engineering Risk Analysis Group, School of Engineering and Design, Technical University of Munich
 Office: Theresienstraße 90, N3624, 80333 München, Germany
-Email: idongkr[at]gmail.com
+Email: dongkyu.lee[at]tum.de
 ```
