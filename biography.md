@@ -5,25 +5,33 @@ title: Biography
 
 ## Research Experience
 
-* Technical University of Munich (Sep 2024 - Now)
+* Technical University of Munich
+  * Period: Sep 2024 - Now
   * Postdoctoral Fellow
+  * Supported by National Research Foundation of Korea
+  * Advisor: Prof. Dr. [Daniel Straub](https://www.cee.ed.tum.de/era/team/daniel-straub/)
 
-* Seoul National University (Sep 2023 – Aug 2024)
+* Seoul National University
+  * Period: Sep 2023 – Aug 2024
   * Postdoctoral Fellow
+  * Advisor: Prof. [Junho Song](https://systemreliability.wordpress.com/junhosong/)
 
-* Princeton University (Oct 2023 – Nov 2023)
-  * Hosting: Prof. [Jürgen Hackl](https://cee.princeton.edu/people/j%C3%BCrgen-hackl)
+* Princeton University
+  * Period: Oct 2023 – Nov 2023
   * Visiting Researcher
+  * Hosting: Prof. [Jürgen Hackl](https://cee.princeton.edu/people/j%C3%BCrgen-hackl)
 
-* University of California, Berkeley (Nov 2022 - Feb 2023)
-  * Advisor: Prof. [Ziqi Wang](https://ce.berkeley.edu/people/faculty/ziqiwang)
-  * Visiting Student Researcher
+* University of California, Berkeley
+  * Period: Nov 2022 - Feb 2023
+  * Brain Korea 21 International Collaborative Researcher
   * Supported by Ministry of Education, Korea
+  * Advisor: Prof. [Ziqi Wang](https://ce.berkeley.edu/people/faculty/ziqiwang)
 
-* [NCSA](https://www.ncsa.illinois.edu/) at University of Illinois (UIUC) (Dec 2019 - Feb 2020)
-  * Advisor: Dr. [Jong Sung Lee](https://experts.illinois.edu/en/persons/jong-sung-lee)
+* [NCSA](https://www.ncsa.illinois.edu/) at University of Illinois (UIUC)
+  * Period: Dec 2019 - Feb 2020
   * Visiting Student Researcher (EDRC Research Intern Program)
   * Supported by Ministry of Trade, Industry and Energy, Korea
+  * Advisor: Dr. [Jong Sung Lee](https://experts.illinois.edu/en/persons/jong-sung-lee)
 <br/>
 
 ## Education
@@ -32,7 +40,7 @@ title: Biography
 * M.S./Ph.D., 2017 to 2023
   * Dissertation: [**_Development of seismic reliability analysis methods for large-scale infrastructure networks_**](https://hdl.handle.net/10371/196249)
   * Civil and Environmental Engineering
-  * Advisor: Prof. [Junho Song](https://systemreliability.wordpress.com/)
+  * Advisor: Prof. [Junho Song](https://systemreliability.wordpress.com/junhosong/)
 
 * B.S., 2012 to 2016
   * Civil and Environmental Engineering (*Cum Laude*)
@@ -40,6 +48,8 @@ title: Biography
 
 ## Invited Talks
 
+* Technical University of Munich, München, Germany (Oct 16, 2024)
+  * [**_Efficient seismic reliability and fragility analysis of lifeline networks using subset simulation_**](https://www.cee.ed.tum.de/era/seminars/)
 * Princeton University, NJ, USA (Oct 27, 2023)
   * **_Bayesian network modeling for system reliability anlaysis_**
 * University College London, London, UK (Jul 18, 2023)
@@ -51,9 +61,9 @@ title: Biography
 ## Honors & Awards
 
 * Postdoctoral Fellowship Program: Nurturing next-generation researchers (Sep 2024 ~ Aug 2025)
-  * Financial support from National Research Foundation of Korea (NRF)
+  * Full financial support from National Research Foundation of Korea (NRF)
 * Brain Korea 21 Global Joint Research Fellowship for Graduate Students (Nov 2022 ~ Feb 2023)
-  * Financial support from Ministry of Education, Korea
+  * Full financial support from Ministry of Education, Korea
 * World Top-tier Program Award (Feb 2022)
   * Engineering Development Research Center (EDRC), SNU
 * EDRC Research Intern Program	- [NCSA](https://www.ncsa.illinois.edu/) at UIUC (Dec 2019 ~ Feb 2020)
