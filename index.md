@@ -14,7 +14,7 @@ He has a broad academical background in graph theory, deep reinforcement learnin
 - Application of statistical/machine learning techniques for urban infrastructure systems
 
 
-He has presented [his research outcomes](https://scholar.google.co.kr/citations?user=cLfMY9wAAAAJ&hl=ko) through 3 articles in peer-reviewed journals (and 2 articles under review), and 21 conference/workshop presentations (7 domestic, 14 international).
+He has presented [his research outcomes](https://dklee.kro.kr/publications/) through 3 articles in peer-reviewed journals (and 2 articles under review), and 21 conference/workshop presentations (7 domestic, 14 international).
 <br/>
 
 ## Contact
