@@ -51,7 +51,7 @@ title: Biography
 * Technical University of Munich, München, Germany (Oct 16, 2024)
   * [**_Efficient seismic reliability and fragility analysis of lifeline networks using subset simulation_**](https://www.cee.ed.tum.de/era/seminars/)
 * Princeton University, NJ, USA (Oct 27, 2023)
-  * **_Bayesian network modeling for system reliability anlaysis_**
+  * **_Bayesian network modeling for system reliability analysis_**
 * University College London, London, UK (Jul 18, 2023)
   * **_Network seismic fragility curves by single implementation of subset simulation_**
 * Technical University of Munich, München, Germany (May 12, 2023, Online)
