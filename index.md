@@ -6,7 +6,7 @@ subtitle: PostDoc, Technical University of Munich
 
 ## About me
 
-I have redesigned my personal blog at [HERE](https://dongkyu-lee.kro.kr/).
+I have redesigned my personal blog, which is available at [HERE](https://dongkyu-lee.kro.kr/).
 
 **Dr. Dongkyu Lee** is a **_Postdoctoral researcher_** at TUM ([Technical University of Munich](https://www.tum.de/en/)). He received his B.S. and Ph.D. in Civil & Environmental Engineering from SNU ([Seoul National University](https://en.snu.ac.kr/)). 
 
