@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Thesis, Peer-reviewed Journals & Proceedings of Conferences.
 nav: true
 nav_order: 2
