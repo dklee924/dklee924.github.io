@@ -24,13 +24,54 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Engineering Risk Analysis Group, Technical University of Munich",
+      "location": "Munich, Germany",
+      "position": "Postdoctoral Researcher",
+      "url": "https://www.cee.ed.tum.de/era/era-group/",
+      "startDate": "2024-09-01",
+      "endDate": "Now",
+      "summary": "Postdoctoral Fellowship Program (nurturing next-generation researchers), supported by National Research Foundation of Korea (NRF)",
+      "highlights": ["Deep reinforcement learning-based optimal maintenance strategy for large-scale infrastructure networks under seismic risk"]
+    },
+    {
+      "name": "Institute of Construction and Environmental Engineering, Seoul National University",
+      "location": "Seoul, S. Korea",
+      "position": "Postdoctoral Researcher",
+      "url": "https://systemreliability.wordpress.com/people/",
+      "startDate": "2023-09-01",
+      "endDate": "2024-08-31",
+      "summary": "Postdoctoral Researcher",
+      "highlights": ["Advisor: Prof. Junho Song"]
+    },
+    {
+      "name": "Princeton University, Princeton",
+      "location": "NJ, USA",
+      "position": "Visiting Researcher",
+      "url": "https://cis.scholar.princeton.edu/people/dongkyu-lee",
+      "startDate": "2023-10-01",
+      "endDate": "2023-11-01",
+      "summary": "Visiting Researcher",
+      "highlights": ["Hosting: Prof. Jürgen Hackl"]
+    },
+    {
+      "name": "University of California, Berkeley, Berkeley",
+      "location": "CA, USA",
+      "position": "Visiting Researcher",
+      "url": "https://coezresearch.wpenginepowered.com/99-2/",
+      "startDate": "2022-11-01",
+      "endDate": "2023-02-06",
+      "summary": "Brain Korea 21 Global Research Fellowship, supported by Ministry of Education, Korea",
+      "highlights": ["Advisor: Prof. Ziqi Wang"]
+    },
+    {
+      "name": "University of Illinois Urbana-Champaign, Champaign",
+      "location": "IL, USA",
+      "position": "Visiting Researcher",
+      "url": "https://experts.illinois.edu/en/persons/jong-sung-lee",
+      "startDate": "2019-12-23",
+      "endDate": "2020-02-23",
+      "summary": "EDRC Research Intern Program, supported by Ministry of Trade, Industry and Energy, Korea",
+      "highlights": ["Advisor: Dr. Jong S. Lee"]
     }
   ],
   "volunteer": [
