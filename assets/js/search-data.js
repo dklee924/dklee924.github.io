@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/blog/";
           },
         },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "Thesis, Peer-reviewed Journals &amp; Proceedings of Conferences.",
           section: "Navigation",
           handler: () => {
