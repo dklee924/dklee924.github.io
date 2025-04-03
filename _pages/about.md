@@ -28,8 +28,9 @@ latest_posts:
 **Dr. Dongkyu Lee** is a **Postdoctoral researcher** at [Technical University of Munich](https://www.tum.de/en/) (TUM). He received his B.S. and Ph.D. in Civil & Environmental Engineering from [Seoul National University](https://en.snu.ac.kr/) (SNU). 
 
 He has a broad academical background in graph theory, deep reinforcement learning, Bayesian network, variance-reduction techniques (importance sampling, subset simulation, ...), etc. He is interested in: 
-# Reliability analysis of urban systems/networks under seismic uncertainties
-# Risk-informed maintenance strategies for lifeline networks
-# Application of statistical/machine learning techniques for urban infrastructure systems
+
+Reliability analysis of urban systems/networks under seismic uncertainties
+Risk-informed maintenance strategies for lifeline networks
+Application of statistical/machine learning techniques for urban infrastructure systems
 
 He has presented [his research outcomes](https://dongkyu-lee.kro.kr/publications/) through 4 papers published in peer-reviewed archival journals (and 1 article under review), and 21 conference/workshop presentations (7 domestic, 14 international).
