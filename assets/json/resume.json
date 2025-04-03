@@ -224,14 +224,17 @@
     }
   ],
   "interests": [
-    {
-      "name": "Network Resilience",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Uncertainty Quantification",
-        "Statistical/Machine Learning",
-        "Network Reliability Analysis",
-        "Risk-informed Maintenance Policy"
+     {
+       "name": "Physics",
+       "name": "Network Resilience",
+       "icon": "fa-solid fa-tag",
+       "keywords": [
+         "Quantum Mechanics",
+         "Quantum Computing",
+         "Quantum Information",
+         "Quantum Cryptography",
+         "Quantum Communication",
+         "Quantum Teleportation"
       ]
     }
   ],
