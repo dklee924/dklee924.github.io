@@ -4,7 +4,7 @@ title: Postdoctoral Fellowship Program
 description: Deep reinforcement learning-based optimal maintenance strategy for large-scale infrastructure networks under seismic risk
 img: assets/img/Fig1_1.png
 importance: 1
-category: Ongoing
+category: work
 related_publications: true
 ---
 
