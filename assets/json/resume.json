@@ -251,12 +251,12 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Deep reinforcement learning-based optimal maintenance strategy for large-scale infrastructure networks under seismic risk",
+      "summary": "We develop a methodology for a sequential multi-objective optimization problem for the management of large lifeline networks with potential seismic risks.",
+      "highlights": ["Deep Reinforcement Learning", "Maintenance Strategy"],
+      "startDate": "2024-09-01",
+      "endDate": "Now",
+      "url": "https://dongkyu-lee.kro.kr/projects/1_project/"
     }
   ]
 }
