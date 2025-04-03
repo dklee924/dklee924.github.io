@@ -232,15 +232,14 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Network",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Graph Theory",
+        "Network Resilience",
+        "Network Reliability",
+        "Network Maintenance",
+        "Deep Reinforcement Learning"
       ]
     }
   ],
