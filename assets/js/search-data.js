@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-publications",
+          title: "Publications",
+          description: "Peer-reviewed Journals, Thesis &amp; Proceedings of Conferences.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
+          },
         },{id: "nav-teaching",
           title: "Teaching",
           description: "Courses I Taught or Codeveloped.",
