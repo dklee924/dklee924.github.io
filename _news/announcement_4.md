@@ -2,7 +2,7 @@
 layout: post
 title: I've completed my Ph.D.
 date: 2023-06-28 16:00:00-0400
-inline: false
+inline: true
 related_posts: false
 ---
 
