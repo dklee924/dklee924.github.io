@@ -7,8 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-{% include news.liquid %}
-
 <!-- _pages/publications.md -->
 
 <div class="publications">
