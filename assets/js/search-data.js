@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-journals",
-          title: "Journals",
-          description: "Peer-reviewed Journals, Thesis &amp; Proceedings of Conferences.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/journals/";
-          },
         },{id: "dropdown-thesis",
               title: "Thesis",
               description: "",
