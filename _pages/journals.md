@@ -3,9 +3,9 @@ layout: page
 permalink: /journals/
 title: Journals
 description: Peer-reviewed Journals, Thesis & Proceedings of Conferences.
-nav: true
-nav_order: 2
 ---
+
+{% include news.liquid %}
 
 <!-- _pages/journals.md -->
 
