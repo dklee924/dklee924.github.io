@@ -1,13 +1,13 @@
 ---
 layout: page
-permalink: /journals/
-title: Journals
+permalink: /publications/
+title: Publications
 description: Peer-reviewed Journals, Thesis & Proceedings of Conferences.
 ---
 
 {% include news.liquid %}
 
-<!-- _pages/journals.md -->
+<!-- _pages/publications.md -->
 
 <div class="publications">
 
