@@ -3,6 +3,8 @@ layout: page
 permalink: /publications/
 title: Publications
 description: Peer-reviewed Journals, Thesis & Proceedings of Conferences.
+nav: true
+nav_order: 3
 ---
 
 {% include news.liquid %}
