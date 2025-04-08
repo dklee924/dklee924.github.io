@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Courses I Taught or Codeveloped.
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
 #### Teaching Assistant (Seoul National University)
