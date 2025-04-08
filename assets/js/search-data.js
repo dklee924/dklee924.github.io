@@ -16,28 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "dropdown-thesis",
-              title: "Thesis",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/thesis/";
-              },
-            },{id: "dropdown-journals",
-              title: "Journals",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/journals/";
-              },
-            },{id: "dropdown-conferences",
-              title: "Conferences",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/conferences/";
-              },
-            },{id: "nav-projects",
+        },{id: "nav-projects",
           title: "Projects",
           description: "A growing collection of projects.",
           section: "Navigation",
