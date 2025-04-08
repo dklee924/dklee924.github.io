@@ -37,7 +37,28 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-repositories",
+        },{id: "dropdown-thesis",
+              title: "Thesis",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/thesis/";
+              },
+            },{id: "dropdown-journals",
+              title: "Journals",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/journals/";
+              },
+            },{id: "dropdown-conferences",
+              title: "Conferences",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/conferences/";
+              },
+            },{id: "nav-repositories",
           title: "repositories",
           description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
           section: "Navigation",
@@ -51,21 +72,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "books-the-godfather",
+        },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
