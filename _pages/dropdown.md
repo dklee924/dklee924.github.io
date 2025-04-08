@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Publications
-nav: true
-nav_order: 3
-dropdown: true
+dropdown: false
 children:
   - title: Thesis
     permalink: /thesis/
