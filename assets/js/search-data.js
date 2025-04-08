@@ -45,12 +45,10 @@ ninja.data = [{
             },},{id: "news-i-joined-the-structural-system-reliability-group-ssrg-at-snu",
           title: 'I joined the Structural System Reliability Group (SSRG) at SNU.',
           description: "",
-          section: "News",},{id: "news-i-39-ve-completed-my-ph-d",
-          title: 'I&amp;#39;ve completed my Ph.D.',
+          section: "News",},{id: "news-i-successfully-defended-my-doctoral-dissertation-today-the-contents-of-the-ph-d-dissertation-are-as-follows-chapter-1-introduction-chapter-2-network-reliability-analysis-nra-and-complexity-quantification-using-bayesian-network-and-dual-representation-chapter-3-multi-scale-nra-using-centrality-based-selective-recursive-decomposition-algorithm-chapter-4-efficient-monte-carlo-simulation-for-seismic-reliability-curves-of-networks-chapter-5-conclusions-lee-d-2023-development-of-seismic-reliability-analysis-methods-for-large-scale-infrastructure-networks-doctoral-dissertation-seoul-national-university-a-overview-of-proposed-methods-b-diagram-of-main-contribution-and-findings-c-trade-off-between-accuracy-and-scalability-in-proposed-methods",
+          title: 'I successfully defended my doctoral dissertation today! The contents of the Ph.D. dissertation...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_4/";
-            },},{id: "news-i-joined-the-institute-of-construction-and-environmental-engineering-icee-at-snu-as-a-postdoctoral-researcher",
+          section: "News",},{id: "news-i-joined-the-institute-of-construction-and-environmental-engineering-icee-at-snu-as-a-postdoctoral-researcher",
           title: 'I joined the Institute of Construction and Environmental Engineering (ICEE) at SNU as...',
           description: "",
           section: "News",},{id: "news-i-joined-the-engineering-risk-analysis-group-era-at-tum-as-a-postdoctoral-researcher",
