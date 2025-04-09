@@ -10,7 +10,7 @@ related_posts: false
 
 <hr>
 
-### The contents of the Ph.D. dissertation are as follows:
+#### The contents of the Ph.D. dissertation are as follows:
 
 <ul>
     <li>Chapter 1. Introduction</li>
@@ -34,19 +34,11 @@ related_posts: false
 <div class="caption">
     (a) Overview of proposed methods
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/news/news4_1.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/news/news4_1.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/news/news4_2.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
+
 <div class="caption">
-    (b) Diagram of main contribution and findings
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/news/news4_2.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    (c) Trade-off between accuracy and scalability in proposed methods
+    Diagram of primary contributions; and trade-off between accuracy and scalability in the proposed methods
 </div>
