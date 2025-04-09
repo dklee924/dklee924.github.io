@@ -8,7 +8,7 @@ related_posts: false
 
 ## I successfully defended my doctoral dissertation today!
 
----
+<hr>
 
 ### The contents of the Ph.D. dissertation are as follows:
 
@@ -20,11 +20,11 @@ related_posts: false
     <li>Chapter 5. Conclusions</li>
 </ul>
 
----
+<hr>
 
 > Lee, D. (2023). [Development of Seismic Reliability Analysis Methods for Large-scale Infrastructure Networks](https://dcollection.snu.ac.kr/common/orgView/000000179598). _Doctoral dissertation, Seoul National University_.
 
----
+<hr>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
