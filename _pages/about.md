@@ -31,8 +31,8 @@ latest_posts:
 
 He has a broad academical background in graph theory, deep reinforcement learning, Bayesian network, variance-reduction techniques (importance sampling, subset simulation, ...), etc. He is interested in:
 
-Reliability analysis of urban systems/networks under seismic uncertainties
-Risk-informed maintenance strategies for lifeline networks
-Application of statistical/machine learning techniques for urban infrastructure systems
+- Reliability analysis of urban systems/networks under seismic uncertainties
+- Risk-informed maintenance strategies for lifeline networks
+- Application of statistical/machine learning techniques for urban infrastructure systems
 
 He has presented [his research outcomes](https://dongkyu-lee.kro.kr/publications/) through 5 papers published in peer-reviewed archival journals (and 0 articles under review), and 21 conference/workshop presentations (7 domestic, 14 international).
