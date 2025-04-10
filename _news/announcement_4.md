@@ -32,9 +32,8 @@ related_posts: false
     </div>
 </div>
 <div class="caption">
-    (a) Overview of proposed methods
+    Overview of proposed methods
 </div>
-
 <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/news/news4_1.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/news/news4_2.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
