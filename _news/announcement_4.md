@@ -3,6 +3,7 @@ layout: post
 title: I've completed my Ph.D.
 date: 2023-06-28 16:00:00-0400
 inline: false
+featured: true
 related_publications: true
 images:
   compare: true
@@ -13,7 +14,7 @@ images:
 
 <hr>
 
-#### The contents of the Ph.D. dissertation are as follows:
+#### The contents of the Ph.D. dissertation {% cite lee2023development %} are as follows:
 
 <ul>
     <li>Chapter 1. Introduction</li>
@@ -44,3 +45,5 @@ images:
 <div class="caption">
     Diagram of primary contributions; and trade-off between accuracy and scalability in the proposed methods
 </div>
+
+<hr>
