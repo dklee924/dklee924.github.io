@@ -199,7 +199,7 @@
       "name": "Dual graph-based Bayesian network modeling with Rao-Blackwellization for seismic reliability and complexity quantification of network connectivity",
       "publisher": "The method employs the dual graph representation of a target system to automate the construction of a Bayesian network (BN). This enables the application of the junction tree algorithm to perform reliability analysis and quantify complexity based on a network topology. To further tackle SRA challenges associated with fully correlated seismic uncertainties, we propose to combine a cross entropy-based adaptive importance sampling technique with Rao-Blackwellization.",
       "releaseDate": "2025-12-31",
-      "url": "https://doi.org/10.1016/j.ress.2025.110947",
+      "url": "https://doi.org/10.1002/eqe.4362",
       "summary": "Earthquake Engineering & Structural Dynamics"
     }
   ],
