@@ -1,15 +1,15 @@
-"jsong":
-  - firstname: ["Junho"]
+"song":
+  - firstname: ["Junho", "J."]
     url: https://systemreliability.wordpress.com/junhosong/
 
-"yjlee":
+"lee":
   - firstname: ["Young-Joo", "Y.-J."]
     url: https://ylee.unist.ac.kr/professor/
 
-"jebyun":
+"byun":
   - firstname: ["Ji-Eun", "J.-E."]
     url: https://jieunbyun.github.io/
 
-"zwang":
-  - firstname: ["Ziqi"]
+"wang":
+  - firstname: ["Ziqi", "Z."]
     url: https://ce.berkeley.edu/people/faculty/ziqiwang
