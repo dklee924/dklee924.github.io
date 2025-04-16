@@ -265,8 +265,8 @@
       "endDate": "Now",
       "url": "https://dongkyu-lee.kro.kr/projects/1_project/"
     }
-  ]
-    "peer review": [
+  ],
+  "peer review": [
     {
       "name": "Journals",
       "icon": "fa-solid fa-tag",
@@ -279,7 +279,7 @@
     {
       "name": "Conferences",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "ICASP13"
+      "keywords": ["ICASP13"]
     }
   ]
 }
