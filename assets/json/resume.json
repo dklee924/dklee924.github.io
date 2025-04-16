@@ -270,11 +270,7 @@
     {
       "name": "Journals",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "IEEE Transactions on Reliability",
-        "Reliability Engineering and System Safety",
-        "Structural Safety"
-      ]
+      "keywords": ["IEEE Transactions on Reliability", "Reliability Engineering and System Safety", "Structural Safety"]
     },
     {
       "name": "Conferences",
