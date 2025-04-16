@@ -259,13 +259,17 @@
   "reviews": [
     {
       "name": "Journals",
-      "icon": "fa-solid fa-tag",
-      "keywords": ["IEEE Transactions on Reliability", "Reliability Engineering and System Safety", "Structural Safety"]
+      "publisher": "IEEE Transactions on Reliability, Reliability Engineering and System Safety, Structural Safety",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
     },
     {
       "name": "Conferences",
-      "icon": "fa-solid fa-thumbtack",
-      "keywords": ["ICASP13"]
+      "publisher": "ICASP13",
+      "releaseDate": "",
+      "url": "",
+      "summary": ""
     }
   ],
   "projects": [
