@@ -117,6 +117,7 @@ giscus:
 # Disqus comments (DEPRECATED)
 disqus_shortname: al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
