@@ -5,26 +5,10 @@ papers:
     citations: 0
     title: Centrality-based selective recursive decomposition algorithm for efficient network reliability analysis
     year: '2020'
-  cLfMY9wAAAAJ:9vf0nzSNQJEC:
-    citations: 0
-    title: "\uBD80\uBD84\uC9D1\uD569 \uC2DC\uBBAC\uB808\uC774\uC158 \uAE30\uBC18 \uC0AC\uD68C\uAE30\uBC18\uC2DC\uC124 \uB124\uD2B8\uC6CC\uD06C\uC758 \uC9C0\uC9C4\uCDE8\uC57D\uB3C4 \uBD84\uC11D"
-    year: '2023'
   cLfMY9wAAAAJ:D_sINldO8mEC:
     citations: 0
     title: Development of seismic reliability analysis methods for large-scale infrastructure networks
     year: '2023'
-  cLfMY9wAAAAJ:JoZmwDi-zQgC:
-    citations: 0
-    title: "\uB3C4\uB85C\uB9DD \uB808\uC9C8\uB9AC\uC5B8\uC2A4 \uAE30\uBC18 \uAD50\uB7C9 \uB0B4\uC9C4\uBCF4\uAC15 \uCD5C\uC801 \uC758\uC0AC\uACB0\uC815\uC744 \uC704\uD55C \uD655\uB960\uAE30\uBC18 \uBAA8\uB378\uB9C1, \uCD94\uB860 \uBC0F \uCD5C\uC801\uD654"
-    year: '2018'
-  cLfMY9wAAAAJ:PELIpwtuRlgC:
-    citations: 0
-    title: "\uB124\uD2B8\uC6CC\uD06C \uC911\uC2EC\uC131 \uAE30\uBC18 \uC120\uD0DD\uC801 \uC7AC\uADC0 \uBD84\uD574 \uC54C\uACE0\uB9AC\uC998\uC744 \uD65C\uC6A9\uD55C \uD6A8\uC728\uC801 \uC2DC\uC2A4\uD15C \uC2E0\uB8B0\uC131 \uD574\uC11D"
-    year: '2019'
-  cLfMY9wAAAAJ:SdhP9T11ey4C:
-    citations: 0
-    title: "\uB124\uD2B8\uC6CC\uD06C \uC911\uC2EC\uC131 \uAE30\uBC18 \uC7AC\uADC0 \uBD84\uD574\uBC95\uC744 \uC774\uC6A9\uD55C \uB300\uADDC\uBAA8 \uB124\uD2B8\uC6CC\uD06C\uC758 \uB2E4\uC911\uC2A4\uCF00\uC77C \uC2E0\uB8B0\uC131 \uD574\uC11D"
-    year: '2020'
   cLfMY9wAAAAJ:UeHWp8X0CEIC:
     citations: 22
     title: Risk-informed operation and maintenance of complex lifeline systems using parallelized multi-agent deep Q-network
@@ -37,18 +21,10 @@ papers:
     citations: 2
     title: Network Reliability Analysis and Complexity Quantification Using Bayesian Network and Dual Representation
     year: '2023'
-  cLfMY9wAAAAJ:_B80troHkn4C:
-    citations: 0
-    title: "\uB300\uADDC\uBAA8 \uBCF5\uC7A1 \uC2DC\uC2A4\uD15C\uC758 \uC2E0\uB8B0\uC131 \uD574\uC11D\uC744 \uC704\uD55C \uACC4\uCE35\uC801 \uD589\uB82C \uAE30\uBC18 \uC2DC\uC2A4\uD15C \uC2E0\uB8B0\uC131 \uBC29\uBC95\uB860"
-    year: '2023'
   cLfMY9wAAAAJ:b0M2c_1WBrUC:
     citations: 4
     title: 'Seismic performance management of aging road facilities in Korea: Part 2 - decision-making support technology and its application'
     year: '2024'
-  cLfMY9wAAAAJ:dTyEYWd-f8wC:
-    citations: 0
-    title: "\uB2E4\uC911-\uC5D0\uC774\uC804\uD2B8 \uC774\uC911 \uC2EC\uCE35 Q-\uC2E0\uACBD\uB9DD \uAE30\uBC18 \uB3C4\uB85C\uB9DD \uAD00\uB9AC \uC758\uC0AC\uACB0\uC815"
-    year: '2021'
   cLfMY9wAAAAJ:eq2jaN3J8jMC:
     citations: 0
     title: Development of Centrality-based Selective Recursive Decomposition Algorithm Using Network Simplification
@@ -59,7 +35,7 @@ papers:
     year: '2021'
   cLfMY9wAAAAJ:tkaPQYYpVKoC:
     citations: 1
-    title: "Dual graph-based Bayesian network modeling with Rao\u2010Blackwellization for seismic reliability and complexity quantification of network connectivity"
+    title: Dual graph-based Bayesian network modeling with Rao-Blackwellization for seismic reliability and complexity quantification of network connectivity
     year: '2025'
   cLfMY9wAAAAJ:ufrVoPGSRksC:
     citations: 29
