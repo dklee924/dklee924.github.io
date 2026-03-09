@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-27'
+  last_updated: '2026-03-09'
 papers:
   cLfMY9wAAAAJ:5awf1xo2G04C:
     citations: 0
@@ -38,6 +38,6 @@ papers:
     title: "Dual graph-based Bayesian network modeling with Rao\u2010Blackwellization for seismic reliability and complexity quantification of network connectivity"
     year: '2025'
   cLfMY9wAAAAJ:ufrVoPGSRksC:
-    citations: 29
+    citations: 30
     title: Efficient seismic reliability and fragility analysis of lifeline networks using subset simulation
     year: '2025'
