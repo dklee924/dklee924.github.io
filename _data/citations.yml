@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-09'
+  last_updated: '2026-04-01'
 papers:
   cLfMY9wAAAAJ:5awf1xo2G04C:
     citations: 0
@@ -10,13 +10,17 @@ papers:
     title: Development of seismic reliability analysis methods for large-scale infrastructure networks
     year: '2023'
   cLfMY9wAAAAJ:UeHWp8X0CEIC:
-    citations: 23
+    citations: 24
     title: Risk-informed operation and maintenance of complex lifeline systems using parallelized multi-agent deep Q-network
     year: '2023'
   cLfMY9wAAAAJ:WF5omc3nYNoC:
     citations: 0
     title: Maintenance decision-making for infrastructure systems using clustering-based cooperative multi-agent deep Q-network
     year: '2022'
+  cLfMY9wAAAAJ:WqliGbK-hY8C:
+    citations: 0
+    title: Seismic fragility curves of lifeline networks based on subset simulation
+    year: '2024'
   cLfMY9wAAAAJ:Y5dfb0dijaUC:
     citations: 2
     title: Network reliability analysis and complexity quantification using Bayesian network and dual representation
@@ -38,6 +42,6 @@ papers:
     title: "Dual graph-based Bayesian network modeling with Rao\u2010Blackwellization for seismic reliability and complexity quantification of network connectivity"
     year: '2025'
   cLfMY9wAAAAJ:ufrVoPGSRksC:
-    citations: 30
+    citations: 32
     title: Efficient seismic reliability and fragility analysis of lifeline networks using subset simulation
     year: '2025'
