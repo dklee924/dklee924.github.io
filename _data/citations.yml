@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-05-04'
 papers:
   cLfMY9wAAAAJ:5awf1xo2G04C:
     citations: 0
@@ -34,14 +34,14 @@ papers:
     title: Development of Centrality-based Selective Recursive Decomposition Algorithm Using Network Simplification
     year: '2022'
   cLfMY9wAAAAJ:qjMakFHDy7sC:
-    citations: 23
+    citations: 24
     title: Multi-scale seismic reliability assessment of networks by centrality-based selective recursive decomposition algorithm
     year: '2021'
   cLfMY9wAAAAJ:tkaPQYYpVKoC:
-    citations: 1
+    citations: 2
     title: "Dual graph-based Bayesian network modeling with Rao\u2010Blackwellization for seismic reliability and complexity quantification of network connectivity"
     year: '2025'
   cLfMY9wAAAAJ:ufrVoPGSRksC:
-    citations: 32
+    citations: 37
     title: Efficient seismic reliability and fragility analysis of lifeline networks using subset simulation
     year: '2025'
